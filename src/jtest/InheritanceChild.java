@@ -18,6 +18,7 @@ public class InheritanceChild extends InheritanceParent
 		System.out.println(ab.Multiply2());
 		System.out.println(ab.Multiply4());
 		
+		System.out.println("Git Demo updated");
 		
 		/*
 		 * Xyz xy=new Xyz(3); System.out.println(xy.Multiply2());
